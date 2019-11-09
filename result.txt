@@ -1,0 +1,77 @@
+28623644	lung adenocarcinoma
+23211900	Turner syndrome
+24555249	Marfan's Syndrome
+27662508	Marfan's Syndrome
+23788295	Marfan's Syndrome
+28211982	Turner syndrome
+29279609	Cornelia de Lange syndrome
+21706501	Hereditary nonpolyposis colorectal cancer
+14707528	Hereditary nonpolyposis colorectal cancer
+29271604	Turner syndrome
+26895074	Hereditary nonpolyposis colorectal cancer
+27181042	Marfan's Syndrome
+21263000	Turner syndrome
+27724990	Marfan's Syndrome
+25517026	Turner syndrome
+23121401	Turner syndrome
+28385916	Marfan's Syndrome
+25754283	Turner syndrome
+29261648	Cornelia de Lange syndrome
+22011734	Hereditary nonpolyposis colorectal cancer
+28720066	lung adenocarcinoma
+28456931	Turner syndrome
+30419062	lung adenocarcinoma
+27903974	lung adenocarcinoma
+20351703	Marfan's Syndrome
+29060458	lung adenocarcinoma
+26607862	Marfan's Syndrome
+24813698	Marfan's Syndrome
+28834269	lung adenocarcinoma
+17487218	Marfan's Syndrome
+28349385	Turner syndrome
+24939608	Hereditary nonpolyposis colorectal cancer
+30418046	lung adenocarcinoma
+28403077	lung adenocarcinoma
+25533182	Turner syndrome
+29860495	Cornelia de Lange syndrome
+17047017	Turner syndrome
+29379197	Cornelia de Lange syndrome
+17708142	Turner syndrome
+20578946	Turner syndrome
+24666534	Turner syndrome
+28911804	Turner syndrome
+22705998	Marfan's Syndrome
+28647950	Turner syndrome
+28627089	Turner syndrome
+24081994	Marfan's Syndrome
+26350976	Marfan's Syndrome
+26309352	Hereditary nonpolyposis colorectal cancer
+28716062	Marfan's Syndrome
+27343792	Marfan's Syndrome
+27090893	Marfan's Syndrome
+28580713	Marfan's Syndrome
+29348408	Cornelia de Lange syndrome
+24931486	Marfan's Syndrome
+25669767	Marfan's Syndrome
+26566693	Turner syndrome
+26908026	Marfan's Syndrome
+28442527	Marfan's Syndrome
+28696559	Hereditary nonpolyposis colorectal cancer
+27862906	Marfan's Syndrome
+25911666	Marfan's Syndrome
+8001324	Marfan's Syndrome
+12598898	Marfan's Syndrome
+25711197	Hereditary nonpolyposis colorectal cancer
+27496117	Hereditary nonpolyposis colorectal cancer
+24311526	Marfan's Syndrome
+27638981	Turner syndrome
+26323199	Turner syndrome
+23239255	Turner syndrome
+28383843	Marfan's Syndrome
+26298398	Turner syndrome
+24443022	Marfan's Syndrome
+28837453	Marfan's Syndrome
+26642845	lung adenocarcinoma
+26306841	Marfan's Syndrome
+28699072	Hereditary nonpolyposis colorectal cancer
+26526396	Marfan's Syndrome
